@@ -106,13 +106,13 @@ This project demonstrates practical experience with:
 
 ### Interactive Dashboard
 
-![Dashboard](2026-08-19 (1).png)
+![Dashboard](screenshots/dashboard.png)
 
-### relationship between Data Tables
+### Relationship between Data Tables
 
-![Data Tables](2026-08-19 (4).png)
+![relationship between Data Tables](screenshots/relationship.png)
 
 ### PivotTable Analysis
 
-![PivotTable Analysis](2026-08-19 (3).png)
+![PivotTable Analysis](screenshots/pivot-table.png)
 
