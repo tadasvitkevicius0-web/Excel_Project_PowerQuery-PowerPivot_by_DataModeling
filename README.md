@@ -101,7 +101,7 @@ This project demonstrates practical experience with:
 - Business KPI analysis
 - Refreshable data workflows
 - Structured data analysis
-- 
+
 ## Project in Action
 
 ### Interactive Dashboard
