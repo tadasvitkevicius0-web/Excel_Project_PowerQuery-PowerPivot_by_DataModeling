@@ -106,12 +106,12 @@ This project demonstrates practical experience with:
 
 ### Data Model
 
-![Data Model](screenshots/data-model.png)
+![Data Model](.png)
 
 ### PivotTable Analysis
 
-![PivotTable Analysis](screenshots/pivot-table.png)
+![PivotTable Analysis](2026-08-19 (3).png)
 
 ### Interactive Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](2026-08-19 (1).png)
