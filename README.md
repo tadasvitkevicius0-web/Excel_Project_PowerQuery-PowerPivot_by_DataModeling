@@ -104,14 +104,15 @@ This project demonstrates practical experience with:
 - 
 ## Project in Action
 
-### Data Model
+### Interactive Dashboard
 
-![Data Model](.png)
+![Dashboard](2026-08-19 (1).png)
+
+### relationship between Data Tables
+
+![Data Tables](2026-08-19 (4).png)
 
 ### PivotTable Analysis
 
 ![PivotTable Analysis](2026-08-19 (3).png)
 
-### Interactive Dashboard
-
-![Dashboard](2026-08-19 (1).png)
