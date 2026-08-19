@@ -6,8 +6,6 @@ This project demonstrates how Microsoft Excel can be used to build a relational 
 
 The project focuses on preparing data, creating relationships between tables, building explicit measures, and analysing business performance through PivotTables.
 
----
-
 ## Project Objectives
 
 The main objectives of this project were to:
@@ -85,6 +83,16 @@ The Data Model allows business performance to be analysed across multiple dimens
 - Other available business categories
 
 PivotTables provide an interactive way to explore the results of the measures and relationships within the Data Model.
+
+## Key Insights
+
+- The Top 5 performers contribute the highest Total Daily Revenue across different Years and Categories.
+- Daily Revenue is relatively consistent across Regions, despite differences in the number of contributors.
+- Certain products contribute disproportionately to Total Revenue.
+- Revenue and profitability show different patterns across time periods.
+- Higher Average Transaction Revenue doesn't necesarily show the Highest Total Revenue.
+- Total Revenue reveals a seasonal sales pattern, with growth toward January and a notable peak during spring.
+- The Data Model allows performance to be analysed dynamically by different dimensions.
 
 ## Key Skills Demonstrated
 
